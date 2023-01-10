@@ -22,3 +22,7 @@ Day 2 [10-01-23]
   b) Min Max Normalization
   c) Zscore Normalization
   d) Decimal Scaling Normalization
+14. Regression Analysis
+  a) Linear Regression
+  b) Multiple Regression
+
