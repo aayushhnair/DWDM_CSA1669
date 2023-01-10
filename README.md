@@ -13,3 +13,5 @@ Day 1 [09-01-23]
 9. Data-Chart
 10. Pie Chart
 11. Histogram
+
+Day 2 [10-01-23]
