@@ -20,12 +20,12 @@ Day 2 [10-01-23]
 
 14. CENTRAL TENDENCY AND DATA DISPERSION MEASURES
   a) mean median Summary and mode
-13. CORRELATION ANALYSIS AND NORMALIZATION 
+15. CORRELATION ANALYSIS AND NORMALIZATION 
   a) Correlation Analysis
   b) Min Max Normalization
   c) Zscore Normalization
   d) Decimal Scaling Normalization
-14. Regression Analysis
+16. Regression Analysis
   a) Linear Regression
   b) Multiple Regression
 
