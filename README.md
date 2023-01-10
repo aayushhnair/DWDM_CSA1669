@@ -14,9 +14,12 @@ Day 1 [09-01-23]
 10. Pie Chart
 11. Histogram
 12. Boxplotting
+13. Scatter Plot
 
 Day 2 [10-01-23]
 
+14. CENTRAL TENDENCY AND DATA DISPERSION MEASURES
+  a) mean median Summary and mode
 13. CORRELATION ANALYSIS AND NORMALIZATION 
   a) Correlation Analysis
   b) Min Max Normalization
