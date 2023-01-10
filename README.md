@@ -13,5 +13,12 @@ Day 1 [09-01-23]
 9. Data-Chart
 10. Pie Chart
 11. Histogram
+12. Boxplotting
 
 Day 2 [10-01-23]
+
+13. CORRELATION ANALYSIS AND NORMALIZATION 
+  a) Correlation Analysis
+  b) Min Max Normalization
+  c) Zscore Normalization
+  d) Decimal Scaling Normalization
