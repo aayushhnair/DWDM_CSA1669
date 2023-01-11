@@ -1,0 +1,27 @@
+%% Subjects
+%% SIMATS School of Engineering
+
+@relation Subject_data 
+@attribute SI_no numeric
+@attribute Subject_name string
+@attribute Subject_faculty string
+@attribute Grade string
+@attribute Internal_Marks numeric
+
+@data
+1,Python,Sri_Remya,S,88
+2,C,Sri_Vindya,S,98
+3,Physics,Pugazhendi,B,75
+4,Mathematic,Seethalekshmi,A,92
+5,ComputerNetworks,Sherin,A,94
+6,ProfessionalEthics,Swaminathan,B,75
+7,Aptitude_Competency,Ashwin,B,72
+8,DBMS,Kanimozhi,A,92
+9,Java,Sri_Vindya,S,95
+10,C++,Ramaparvathy,A,97
+11,DWDM,TerrenceFedrick,S,85
+12,DicreteMaths,Kingsley,A,71
+13,CompilerDesign,Micheal,A,80
+14,AI,Sravanan,A,79
+15,DataStructures,Saraswathi,A,88
+
