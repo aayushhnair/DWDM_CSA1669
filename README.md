@@ -28,4 +28,10 @@ Day 2 [10-01-23]
 16. Regression Analysis
   a) Linear Regression
   b) Multiple Regression
+  
+Day 3 [11-01-23]
+
+ Weka
+ 
+ 
 
